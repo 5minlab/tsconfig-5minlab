@@ -9,7 +9,7 @@
     "sourceMap": true,
     "declaration": true,
     "target": "es2017",
-    "outDir": "lib",
+    "outDir": "../../../lib", // https://github.com/microsoft/TypeScript/issues/29172
     "strict": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": false,
