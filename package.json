@@ -1,0 +1,21 @@
+{
+  "name": "@5minlab/tsconfig",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "tsconfig.json from 5minlab",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5minlab/tsconfig-5minlab.git"
+  },
+  "author": "5minlab",
+  "bugs": {
+    "url": "https://github.com/5minlab/tsconfig-5minlab/issues"
+  },
+  "homepage": "https://github.com/5minlab/tsconfig-5minlab#readme"
+}
