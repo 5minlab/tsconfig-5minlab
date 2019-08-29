@@ -8,7 +8,7 @@ tsconfig.json for 5minlab
 ## installation
 
 ```sh
-npm install @5minlab/tsconfig --save-dev
+$ npm install @5minlab/tsconfig --save-dev
 ```
 
 ## usage
