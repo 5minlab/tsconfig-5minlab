@@ -9,6 +9,7 @@
     "sourceMap": true,
     "declaration": true,
     "target": "es2017",
+    "rootDir": "../../../",
     "outDir": "../../../lib", // https://github.com/microsoft/TypeScript/issues/29172
     "strict": true,
     "strictNullChecks": true,
@@ -22,7 +23,7 @@
     "resolveJsonModule": true
   },
   "exclude": [
-    "node_modules",
-    "lib"
+    "../../../node_modules",
+    "../../../lib"
   ]
 }
