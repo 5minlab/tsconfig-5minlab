@@ -10,7 +10,7 @@
     "declaration": true,
     "target": "es2017",
     "rootDir": "../../../",
-    "outDir": "../../../lib", // https://github.com/microsoft/TypeScript/issues/29172
+    "outDir": "../../../build", // https://github.com/microsoft/TypeScript/issues/29172
     "strict": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": false,
@@ -24,6 +24,6 @@
   },
   "exclude": [
     "../../../node_modules",
-    "../../../lib"
+    "../../../build"
   ]
 }
