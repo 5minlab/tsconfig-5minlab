@@ -1,7 +1,7 @@
 # @5minlab/tsconfig
 
 [![Build Status](https://travis-ci.org/5minlab/tsconfig-5minlab.svg?branch=master)](https://travis-ci.org/5minlab/tsconfig-5minlab)
-![npm](https://img.shields.io/npm/v/@5minlab/tsconfig)
+[![npm version](https://img.shields.io/npm/v/@5minlab/tsconfig.svg)](https://www.npmjs.com/package/@5minlab/tsconfig)
 
 tsconfig.json for 5minlab
 
