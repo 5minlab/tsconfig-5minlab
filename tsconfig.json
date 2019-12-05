@@ -10,7 +10,7 @@
     "declaration": true,
     "target": "es2017",
     "rootDir": "../../../",
-    "baseUrl": "../../../",
+    "baseUrl": ".",
     "outDir": "../../../build", // https://github.com/microsoft/TypeScript/issues/29172
     "strict": true,
     "strictNullChecks": true,
