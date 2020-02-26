@@ -8,7 +8,7 @@
     "module": "commonjs",
     "sourceMap": true,
     "declaration": true,
-    "target": "es2017",
+    "target": "es2018",
     "rootDir": "../../../",
     "baseUrl": ".",
     "outDir": "../../../build", // https://github.com/microsoft/TypeScript/issues/29172
